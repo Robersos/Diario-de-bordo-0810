@@ -19,15 +19,25 @@
 ## Sumário
 
 1. **Síntese Teórica (Pesquisa)** 
-   1.1 Diferença entre Processo e Thread3
+
+   1.1 Diferença entre Processo e Thread
+
    1.2 Criação e Custo Computacional: Threads vs. Processos
+
    1.3 Threads em Modo Usuário vs. Modo Núcleo (Kernel)
+
 2. **Diagnóstico do Problema (O Gargalo)** 
+   
    2.1 A Condição de Corrida (*Race Condition*) 
+   
    2.2 Impacto no Sistema de Ingressos sem Tratamento 
+
 3. **A Solução Arquitetural** 
+  
    3.1 Exclusão Mútua e Regiões Críticas 
+  
    3.2 Aplicação Prática ao Assento A-15
+
 4. **Referências Bibliográficas (Norma ABNT)
 ---
 
